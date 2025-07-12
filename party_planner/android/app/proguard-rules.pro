@@ -1,0 +1,2 @@
+-dontwarn io.flutter.embedding.engine.deferredcomponents.**
+-keep class io.flutter.embedding.engine.deferredcomponents.** { *; }
